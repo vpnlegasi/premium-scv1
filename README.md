@@ -1,4 +1,10 @@
 # AUTOSCRIPT BY VPN LEGASI (MODED)
+# ADD Function Check IP Netflix Content
+# ADD Function Auto ADD DNS SERVER Temporary / Permanent
+# Support OVPN,OHP,WG,SSR,V2ray,Xray & many more
+# Open Sewa serendah RM10 / IP / Month (32days)
+# Contact Telegram only : https://t.me/vpnlegasi
+
 
  <h2 align="center">AutoScript Install VPN By vpnlegasi <img src="https://img.shields.io/badge/Version-1-blue.svg"></h2>
 
