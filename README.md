@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## Installation
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && sudo apt install -y wget && sudo apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vpnlegasi/premium-scv1/main/setup.sh && chmod +x setup.sh && ./setup.sh && rm -rf ./setup.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt install sudo &&sudo apt install -y wget && sudo apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vpnlegasi/premium-scv1/main/setup.sh && chmod +x setup.sh && ./setup.sh && rm -rf ./setup.sh
 
   ```
 
